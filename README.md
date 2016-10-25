@@ -27,3 +27,8 @@ Create the following Numpy arrays with random numbers for the following dimensio
  Do the same thing in R. 
 
 
+
+
+ Part 4: Do some statistical Analysis on the data perhaps???
+
+
