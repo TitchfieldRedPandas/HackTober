@@ -17,3 +17,11 @@ ggplot(df, aes(x = group, y = wl1)) +
   geom_boxplot(fill = "grey80", colour = "blue") +
   scale_x_discrete() + xlab("Treatment Group") +
   ylab("weight loss")
+
+
+
+TukeyHSD(aov(formula = df$wl1 ~ df$group))
+
+
+
+
