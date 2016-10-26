@@ -32,3 +32,8 @@ Create the following Numpy arrays with random numbers for the following dimensio
  Part 4: Do some statistical Analysis on the data perhaps???
 
 
+
+Usefull links:
+
+1) git cheatsheet: https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf
+
